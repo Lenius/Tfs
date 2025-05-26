@@ -1,0 +1,18 @@
+{
+  "id": 42,
+  "rev": 3,
+  "fields": {
+    "System.TeamProject":      "MyProject",
+    "System.WorkItemType":     "Test Case",
+    "System.State":            "Ready",
+    "System.Title":            "Verify user can login",
+    "System.CreatedDate":      "2025-05-23T10:15:00.000Z",
+    "Microsoft.VSTS.TCM.Steps": "<steps id=\"0\" last=\"2\"><step id=\"1\" type=\"Action\"><parameterizedString isformatted=\"true\">Navigate to the login page Hej &lt;verden&gt;!</parameterizedString><parameterizedString isformatted=\"true\">Navigate to the login page Hej &lt;verden&gt;!</parameterizedString></step><step id=\"1\" type=\"Action\"><parameterizedString isformatted=\"true\">Click on logout</parameterizedString><parameterizedString isformatted=\"true\">User is logged out</parameterizedString></step></steps>"
+  },
+  "_links": {
+    "self":       { "href": "https://tfs.example.com/DefaultCollection/_apis/wit/workItems/42" },
+    "workItem":   { "href": "https://tfs.example.com/DefaultCollection/_apis/wit/workItems/42" },
+    "html":   { "href": "https://tfs.example.com/DefaultCollection/_apis/wit/workItems/42" }
+  },
+  "url": "https://tfs.example.com/DefaultCollection/_apis/wit/workItems/42"
+}
